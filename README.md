@@ -1,13 +1,3 @@
-# 本MOD放弃维护，请转到https://github.com/reserveword/IMBlocker
-# 已有同类型MOD支持MC更新的版本，本着环境保护的原则，作者放弃维护同种作用的工具MOD。
-
-# This MOD is being discontinued and will no longer be maintained. Please visit https://github.com/reserveword/IMBlocker
-# There are already other MODs of the same type that support Minecraft updates. In the spirit of environmental protection, the author has decided to discontinue maintenance of this tool MOD with the same function.
-
-
-
------------------
-
 # ImBlockerFabric
 IMBlockerFabric is a mod which hides the IME (Input Method Editor) where entering text is not required.
 
